@@ -1,5 +1,5 @@
 # ChatGPT Query for ChatGPT-correction
-The effective and robust query for asking ChatGPT (version 3.5 or 4.0) for MJO-Net  
+The effective and robust query for asking ChatGPT (version 3.5 or 4.0) for ChatGPT-correction  
 Update time: July 24, 2023  
 If you have any questions, please contact me via email: rwangbp@connect.ust.hk  
 
